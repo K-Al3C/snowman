@@ -83,7 +83,7 @@ function draw() {
     }
     sSnow2 = sSnow2+1.5;
     //style the text
-    stroke("#06290b");
+    stroke("#1e990e");
     fill("#a30b0b");
     textSize(40);
     textFont("Georgia");
